@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Member To Class: ClassName=ch55x Member=Component J1 Header 4
+Added Member To Class: ClassName=ch55x Member=Component J2 Header 4

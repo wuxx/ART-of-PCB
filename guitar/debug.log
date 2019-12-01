@@ -1,0 +1,41 @@
+[0820/163146:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0820/163146:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0820/163146:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\BrowserCache to C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\old_BrowserCache_000
+[0820/163146:ERROR:cache_creator.cc(129)] Unable to create cache
+[0821/161952:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0821/161952:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0821/161952:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\BrowserCache to C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\old_BrowserCache_000
+[0821/161952:ERROR:cache_creator.cc(129)] Unable to create cache
+[0821/175534:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0821/175534:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0821/175534:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\BrowserCache to C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\old_BrowserCache_000
+[0821/175534:ERROR:cache_creator.cc(129)] Unable to create cache
+[0821/180339:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0821/180339:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0821/180339:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\BrowserCache to C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\old_BrowserCache_000
+[0821/180339:ERROR:cache_creator.cc(129)] Unable to create cache
+[0822/155603:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0822/155603:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0822/155603:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\BrowserCache to C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\old_BrowserCache_000
+[0822/155603:ERROR:cache_creator.cc(129)] Unable to create cache
+[0822/172714:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0822/172714:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0822/172714:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\BrowserCache to C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\old_BrowserCache_000
+[0822/172714:ERROR:cache_creator.cc(129)] Unable to create cache
+[0612/233216:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0612/233216:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0612/233216:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\BrowserCache to C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\old_BrowserCache_000
+[0612/233216:ERROR:cache_creator.cc(129)] Unable to create cache
+[1201/153419:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[1201/153419:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1201/153419:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\BrowserCache to C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\old_BrowserCache_000
+[1201/153419:ERROR:cache_creator.cc(129)] Unable to create cache
+[1201/154400:INFO:CONSOLE(123)] "Uncaught ReferenceError: $ is not defined", source: https://www.altium.com/ad-start/ (123)
+[1201/161941:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[1201/161941:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1201/161941:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\BrowserCache to C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\old_BrowserCache_000
+[1201/161941:ERROR:cache_creator.cc(129)] Unable to create cache
+[1201/213957:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[1201/213957:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1201/213957:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\BrowserCache to C:\ProgramData\Altium\Altium Designer {67983506-8AA5-4E98-BD5E-B69ABC7CD564}\old_BrowserCache_000
+[1201/213957:ERROR:cache_creator.cc(129)] Unable to create cache

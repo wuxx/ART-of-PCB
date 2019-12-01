@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : G:\private\ART-of-PCB\guitar\ch55x.PcbDoc
+Date         : 2019/12/1
+Time         : 21:48:48
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 21
+    Connections routed, 21
+    Connections remaining, 0
+count : 4
