@@ -1,0 +1,1 @@
+CH552_MSC_12KB.hex 为群友 Alexi 提供，感谢~！

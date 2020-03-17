@@ -42,6 +42,7 @@ main()
 		unsigned int x;
 		LED1=0;
 		LED2=0;
+	  //while(1);
 	
     while(1)
     {

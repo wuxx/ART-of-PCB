@@ -1,9 +1,9 @@
-C51 COMPILER V9.00   MAIN                                                                  12/18/2019 21:53:47 PAGE 1   
+C51 COMPILER V9.00   MAIN                                                                  02/08/2020 11:31:27 PAGE 1   
 
 
 C51 COMPILER V9.00, COMPILATION OF MODULE MAIN
 OBJECT MODULE PLACED IN .\Objects\main.obj
-COMPILER INVOKED BY: C:\Keil_v5\C51\BIN\C51.EXE main.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\main
+COMPILER INVOKED BY: D:\Keil_v5\C51\BIN\C51.EXE main.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\main
                     -.lst) TABS(2) OBJECT(.\Objects\main.obj)
 
 line level    source
@@ -52,42 +52,43 @@ line level    source
   42   1          unsigned int x;
   43   1          LED1=0;
   44   1          LED2=0;
-  45   1        
-  46   1          while(1)
-  47   1          {
-  48   2            //LED1=!LED1;
-  49   2            
-  50   2            /* SOS */
-  51   2            
-  52   2            for (x = 0; x < 3; x++) {
-  53   3              LED2 = 1;
-  54   3              delay_short();
-C51 COMPILER V9.00   MAIN                                                                  12/18/2019 21:53:47 PAGE 2   
+  45   1          //while(1);
+  46   1        
+  47   1          while(1)
+  48   1          {
+  49   2            //LED1=!LED1;
+  50   2            
+  51   2            /* SOS */
+  52   2            
+  53   2            for (x = 0; x < 3; x++) {
+  54   3              LED2 = 1;
+C51 COMPILER V9.00   MAIN                                                                  02/08/2020 11:31:27 PAGE 2   
 
-  55   3              LED2 = 0;
-  56   3              delay_short();
-  57   3            }
-  58   2            
-  59   2            for (x = 0; x < 3; x++) {
-  60   3              LED1 = 1;
-  61   3              delay_long();
-  62   3              LED1 = 0;
-  63   3              delay_long();
-  64   3            }
-  65   2            
-  66   2            for (x = 0; x < 3; x++) {
-  67   3              LED2 = 1;
-  68   3              delay_short();
-  69   3              LED2 = 0;
-  70   3              delay_short();
-  71   3            }
-  72   2            
-  73   2            for(x = 0; x < 10; x++) {
-  74   3              delay_long();
-  75   3            }
-  76   2            
-  77   2          }
-  78   1      }
+  55   3              delay_short();
+  56   3              LED2 = 0;
+  57   3              delay_short();
+  58   3            }
+  59   2            
+  60   2            for (x = 0; x < 3; x++) {
+  61   3              LED1 = 1;
+  62   3              delay_long();
+  63   3              LED1 = 0;
+  64   3              delay_long();
+  65   3            }
+  66   2            
+  67   2            for (x = 0; x < 3; x++) {
+  68   3              LED2 = 1;
+  69   3              delay_short();
+  70   3              LED2 = 0;
+  71   3              delay_short();
+  72   3            }
+  73   2            
+  74   2            for(x = 0; x < 10; x++) {
+  75   3              delay_long();
+  76   3            }
+  77   2            
+  78   2          }
+  79   1      }
 
 
 MODULE INFORMATION:   STATIC OVERLAYABLE
